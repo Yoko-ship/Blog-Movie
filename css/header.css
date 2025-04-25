@@ -1,0 +1,18 @@
+header{
+    padding: 32px;
+    background-color: #056863;
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.3);
+}
+header ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+header a{
+    text-decoration: none;
+    color: white;
+}
+header a.active{
+    border-bottom: 1px solid rgb(168, 211, 12);
+    color: yellow;
+}
