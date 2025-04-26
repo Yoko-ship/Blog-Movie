@@ -1,16 +1,37 @@
 [
   {
-    "id": "Tr7TMW",
-    "name": "Under the Dome",
+    "id": "XZs_LE",
+    "name": " Under the dome",
     "rating": "6",
     "comment": "Скатился после 2ого сезона",
     "imageName": "série-under-the-dome.png"
   },
   {
-    "id": "5qbPIv",
+    "id": "kqMWav",
+    "name": "The boys",
+    "rating": "8",
+    "comment": "Немного скучноватый 4ый сезон",
+    "imageName": "MV5BMWJlN2U5MzItNjU4My00NTM2LWFjOWUtOWFiNjg3ZTMxZDY1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "id": "zWaQYl",
     "name": "invincible",
     "rating": "7",
-    "comment": "Нормально",
-    "imageName": "MV5BMWJlN2U5MzItNjU4My00NTM2LWFjOWUtOWFiNjg3ZTMxZDY1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    "comment": "Немножко не логические вещи",
+    "imageName": "Invincible_season_2_Poster.jpg"
+  },
+  {
+    "id": "s_TgaH",
+    "name": "Wednesday",
+    "rating": "8",
+    "comment": "1ый сезон high rate",
+    "imageName": "MV5BZGQxYWFlNzgtODZjMS00YmM5LWEzZWMtOGVmODMzYjIyODZiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "id": "aCcxMK",
+    "name": "Gen V",
+    "rating": "7",
+    "comment": "Пойдет",
+    "imageName": "GEN-V-082323-1-0872425c6f05451caf4f6bdf97fb7b6c.jpg"
   }
 ]
